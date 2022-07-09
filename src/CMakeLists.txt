@@ -1,0 +1,15 @@
+
+
+
+add_executable(test hello.cpp)
+
+
+
+
+
+
+
+
+
+
+
